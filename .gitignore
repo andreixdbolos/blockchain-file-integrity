@@ -1,0 +1,59 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.*
+
+# IPFS and blockchain artifacts
+build/
+artifacts/
+*.log
+*.pid
+*.pid.lock
+
+# Node.js
+node_modules/
+.npm/
+
+# Solidity
+*.abi
+*.bin
+*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.bak
+*.tmp
+*.orig
+
+# Misc
+*.tar.gz
+*.zip
+*.egg-info/
+.ipynb_checkpoints/
+
+# Ganache database (if using CLI db)
+db/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+
+go-ipfs_v0.7.0_linux-amd64.tar.gz
+kubo_v0.27.0_linux-amd64.tar.gz
