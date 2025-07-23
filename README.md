@@ -199,10 +199,5 @@ A: Yes, with some code changes.
 **Q: What if I lose my private key?**
 A: You lose access to your contract interactions. Keep it safe!
 
-## Contact & Support
-- **Author:** Your Name (replace with your info)
-- **Email:** your.email@example.com
-- **Issues:** [GitHub Issues](https://github.com/yourusername/blockchain-file-integrity/issues)
-
 ## License
 MIT 
